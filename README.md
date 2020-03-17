@@ -1,2 +1,4 @@
 # Flutter-Exercise
-Parsing images from websites, creating lists using Flutter Dart
+Android Studio
+Visual Code
+Flutter activities/exercises
